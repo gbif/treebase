@@ -164,7 +164,7 @@
 	<dependency>
       <groupId>org.acegisecurity</groupId>
       <artifactId>acegi-security</artifactId>
-      <version>1.0.1</version>
+      <version>1.0.7</version>
       <exclusions>
 		<!-- exclude older versions of Spring -->
 		<exclusion>
