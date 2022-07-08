@@ -44,7 +44,7 @@
 		<dependency>
 			<groupId>org.acegisecurity</groupId>
 			<artifactId>acegi-security</artifactId>
-			<version>1.0.1</version>
+			<version>1.0.7</version>
 			<exclusions>
 				<!-- Maven thinks 2.0 is newer than 2.1-->
 				<exclusion>
